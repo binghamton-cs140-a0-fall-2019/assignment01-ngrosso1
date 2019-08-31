@@ -1,4 +1,9 @@
 package assignment01;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintWriter;
+
 /**
  * Class to store information about a personal computer with the
  * basic information stored in an advertisement for a computer.

@@ -1,0 +1,90 @@
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+
+TESTS FOR Computer.java:
+Samsung, Intel i5, 8GB Memory, 1.5TB Solid State Drive, Price: $1200.00 
+LG, Intel i7, 32GB Memory, 2.0TB Hard Drive, Price: $1500.00 
+Apple, Intel i3, 8GB Memory, 500GB Solid State Drive, Price: $10000.00 
+Microsoft, Intel i5, 16GB Memory, 500GB Hard Drive, Price: $1000.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1999-01-21, Thornwood, NY, USA
+Date and place of birth: 2002-03-06, Jamestown, MA, USA
+Date and place of birth: 1978-05-01, White Plains, CA, USA
+Date and place of birth: 1999-01-21, Tokyo, Japan
+Date and place of birth: 1988-03-06, London, UK
+false
+false
+true
+false
+false
+false
+true
+false
+false
+false
+
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+
+false
+true
+false
+true
+true
+true
+true
+false
+false
+true
+
+true
+false
+false
+false
+false
+false
+false
+true
+true
+false
+
+TESTS FOR DateAndPlaceOfBirth.java:
+427 Linington Ave.
+Apt 2C
+Thornwood, New York 10456
+
+Zooloo 223 Dr.
+Queens, New York 11102
+
+TESTS FOR ComputerOwnerTester.java:
+Added 4 computers to Computer Owner: 
+Computer List, Owner: Brian Owls (97547862)
+Date and place of birth: 1999-01-21, Tampa, FL, USA
+783 Highland Ave.
+Tampa, FL 10576
+Computers: [Samsung, Intel i5, 8GB Memory, 1.5TB Solid State Drive, Price: $1200.00 , Apple, Intel i5, 12GB Memory, 4.0TB Solid State Drive, Price: $2200.00 , Lenovo, Intel i5, 8GB Memory, 1.5TB Solid State Drive, Price: $1250.00 , IBM, AMD Ryzen 3, 16GB Memory, 1.5TB Hard Drive, Price: $1300.00 ]
+Removed 2 computers: 
+Computer List, Owner: Brian Owls (97547862)
+Date and place of birth: 1999-01-21, Tampa, FL, USA
+783 Highland Ave.
+Tampa, FL 10576
+Computers: [Apple, Intel i5, 12GB Memory, 4.0TB Solid State Drive, Price: $2200.00 , IBM, AMD Ryzen 3, 16GB Memory, 1.5TB Hard Drive, Price: $1300.00 ]
